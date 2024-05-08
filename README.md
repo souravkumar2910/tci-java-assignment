@@ -2,6 +2,8 @@
 
 ### this project is running on port: 5000
 
+Technology Used:Java, Spring Boot, Spring Data JPA, MySQL
+
 #### POST API= http://localhost:5000/tci/employee-bonus
 ##Dummy data:
 [
